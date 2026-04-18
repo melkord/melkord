@@ -11,6 +11,6 @@ Outside work: climbing, mountains, and a German Shorthaired Pointer that needs m
 I write about practical backend problems at [melkord.github.io](https://melkord.github.io).
 
 Recent posts:
-- [Catching silent column drops in PostgreSQL views with Prisma](https://melkord.github.io) - A 20-line E2E test that prevents migration bugs
-- [A custom Dependabot for Yarn monorepos](https://melkord.github.io) - 400 lines of TypeScript to replace a broken audit pipeline
-- [From 40 to 16 minutes: migrating a NestJS test suite from Jest to Bun](https://melkord.github.io) - Pipeline parallelization and test runner migration
+- [Catching silent column drops in PostgreSQL views with a Prisma test](https://melkord.github.io/postgresql-view-column-integrity-prisma/) - A 20-line E2E test that prevents migration bugs
+- [A homemade Dependabot for Bitbucket](https://melkord.github.io/dependabot-bitbucket-security-audit/) - 400 lines of TypeScript to replace a broken audit pipeline
+- [From 40 to 16 minutes: migrating a NestJS test suite from Jest to Bun](https://melkord.github.io/jest-to-bun/) - Pipeline parallelization and test runner migration
